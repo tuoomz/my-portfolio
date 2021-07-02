@@ -14,7 +14,7 @@
 
 🔍 Re-Use existing smart contracts which are already audited to the greatest extent
 
-:eyes: [View in GitHub](https://github.com/tuoomz/shared-wallet)
+:eyes: \[View in GitHub\] (https://github.com/tuoomz/shared-wallet)
 
 ---
 
@@ -30,7 +30,7 @@
 
 🙌 Interact with events in HTML
 
-:eyes: [View in GitHu](https://github.com/tuoomz/supply-chain)b
+:eyes: [View in GitHub](https://github.com/tuoomz/supply-chain)
 
 ---
 
@@ -46,7 +46,7 @@
 
 ☑️ Unit-Testing using chai
 
-:eyes: [View in GitHu](https://github.com/tuoomz/token-sale)b
+:eyes: \[View in GitHub\] (https://github.com/tuoomz/token-sale)b
 
 ---
 
@@ -62,4 +62,4 @@
 
 👍🏽 Uses truffle box to get set up the project
 
-:eyes: [View in GitHu](https://github.com/tuoomz/smart-wallet)b
+:eyes: [View in GitHub](https://github.com/tuoomz/smart-wallet)
