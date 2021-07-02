@@ -49,7 +49,7 @@
 ☑️ Unit-Testing using chai
 
 
-👀 [View in GitHub] (https://github.com/tuoomz/token-sale)b
+👀 [View in GitHub](https://github.com/tuoomz/token-sale)b
 
 ---
 
