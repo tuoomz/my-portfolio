@@ -1,6 +1,18 @@
-## This can be your internal website page / project page
+## Projects
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Shared Wallet:** 
+
+👛 Have an on-chain wallet smart contract.
+
+💸 This wallet contract can store funds and let users withdraw again.
+
+✌️ You can also give "allowance" to other, specific user-addresses.
+
+🚫 Restrict the functions to specific user-roles (owner, user)
+
+🔍 Re-Use existing smart contracts which are already audited to the greatest extent
+
+[GitHub](https://github.com/tuoomz/shared-wallet)
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
