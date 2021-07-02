@@ -4,8 +4,6 @@
 
 ### Smart Wallet
 
-**Shared Wallet:** 
-
 👛 Have an on-chain wallet smart contract.
 
 💸 This wallet contract can store funds and let users withdraw again.
@@ -20,6 +18,14 @@
 
 ### Supply Chain Smart Contract
 
+💡 Managed inventory payments and delivery on chain
+
+👍🏽 Used Event-Triggers
+
+📖 Use truffle to manage deployment workflow
+
+🧪 Unit test using truffle
+
+🙌 Interact with events in html
 
 ---
-
