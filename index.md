@@ -63,3 +63,19 @@
 👍🏽 Uses truffle box to get set up the project
 
 ### 👀 [View in GitHub](https://github.com/tuoomz/smart-wallet)
+
+---
+
+### Dockerised Bitcoin Transaction Processor
+
+☑️  Written in node.js
+
+💲 Read data from bitcoind’s rpc call `listsinceblock` and process valid transactions
+
+🐳 Containerised the app usign docker and run using docker-compose
+
+💾 Database is mongodb
+
+📋 Mongoose model is used to store the data
+
+### 👀 [View in GitHub](https://github.com/tuoomz/btc-transaction-processor)
