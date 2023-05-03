@@ -12,7 +12,7 @@
 
 🔥 Concurrency is used in the game using the Rust crate mpsc. This allows multiple threads to communicate with each other, leading to improved performance and faster gameplay.
 
-### 👀 [View in GitHub]([https://github.com/tuoomz/shared-wallet](https://github.com/tuoomz/space-invaders-rust)
+### 👀 [View in GitHub](https://github.com/tuoomz/space-invaders-rust)
 
 ### Shared Wallet
 
