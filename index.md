@@ -1,6 +1,18 @@
 ## Portfolio
 
 ---
+### Space invaders in rust
+👽 Rust implementation of the classic arcade game
+
+🚀 Players control their own spaceship using the keyboard.
+
+💥 Traits are used throughout to make the code generic
+
+👾 The aliens move faster and become increasingly difficult to defeat as the player progresses through levels.
+
+🔥 Concurrency is used in the game using the Rust crate mpsc. This allows multiple threads to communicate with each other, leading to improved performance and faster gameplay.
+
+### 👀 [View in GitHub]([https://github.com/tuoomz/shared-wallet](https://github.com/tuoomz/space-invaders-rust)
 
 ### Shared Wallet
 
