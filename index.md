@@ -10,7 +10,8 @@
 🤖 Automated deployment using Hardhat scripts\
 🌊 Strategy is generic, allowing use with any Curve base pool.
 
-### 👀 [View in GitHub](https://github.com/tuoomz/vaults)
+#### 👀 [View in GitHub](https://github.com/tuoomz/vaults)
+
 
 ### Space invaders in rust
 
@@ -20,7 +21,7 @@
 👾 The aliens move faster and become increasingly difficult to defeat as the player progresses through levels.\
 🔥 Concurrency is used in the game using the Rust crate mpsc. This allows multiple threads to communicate with each other, leading to improved performance and faster gameplay.
 
-### 👀 [View in GitHub](https://github.com/tuoomz/space-invaders-rust)
+#### 👀 [View in GitHub](https://github.com/tuoomz/space-invaders-rust)
 
 ### Shared Wallet
 
@@ -30,7 +31,7 @@
 🚫 Restrict the functions to specific user-roles (owner, user)\
 🔍 Re-Use existing smart contracts which are already audited to the greatest extent
 
-### 👀 [View in GitHub](https://github.com/tuoomz/shared-wallet)
+#### 👀 [View in GitHub](https://github.com/tuoomz/shared-wallet)
 
 ---
 
@@ -42,7 +43,7 @@
 🧪 Unit test using truffle\
 🙌 Interact with events in HTML
 
-### 👀 [View in GitHub](https://github.com/tuoomz/supply-chain)
+#### 👀 [View in GitHub](https://github.com/tuoomz/supply-chain)
 
 ---
 
@@ -54,7 +55,7 @@
 🦸‍♂️ Implemented using Open-Zeppelin Smart Contracts\
 ☑️ Unit-Testing using chai
 
-### 👀 [View in GitHub](https://github.com/tuoomz/token-sale)
+#### 👀 [View in GitHub](https://github.com/tuoomz/token-sale)
 
 ---
 
@@ -66,7 +67,7 @@
 ☑️ Pay the interest into the same wallet as the withdrawal\
 👍🏽 Uses truffle box to get set up the project
 
-### 👀 [View in GitHub](https://github.com/tuoomz/smart-wallet)
+#### 👀 [View in GitHub](https://github.com/tuoomz/smart-wallet)
 
 ---
 
@@ -78,4 +79,4 @@
 💾 Database is mongodb\
 📋 Mongoose model is used to store the data
 
-### 👀 [View in GitHub](https://github.com/tuoomz/btc-transaction-processor)
+#### 👀 [View in GitHub](https://github.com/tuoomz/btc-transaction-processor)
