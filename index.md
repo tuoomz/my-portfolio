@@ -1,5 +1,3 @@
-Sure! Here's the updated portfolio with each bullet point on a new line using a backslash (`\`):
-
 ## Portfolio
 
 ---
